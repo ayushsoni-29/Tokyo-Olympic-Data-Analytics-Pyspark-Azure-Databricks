@@ -17,3 +17,4 @@ Source(Kaggle): [2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunpr
 5. Storing Transformed Data in Azure Data Lake Storage Gen2
 6. Analytics on transformed data using Azure Synapse Analytics
 
+<img src="implementation images/architecture.PNG">
